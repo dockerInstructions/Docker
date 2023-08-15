@@ -1,6 +1,6 @@
 # Docker #
 
-- Docker je pogodan alat za korišćenje u mikroservisnoj arhitekturi jer nam omogućava kontejnerizaciju servisa, a samim tim i lakši deployment(možemo navesti sve potrebne servise u docker-compose.yml fajlu)
+- Docker je pogodan alat za korišćenje u mikroservisnoj arhitekturi jer nam omogućava kontejnerizaciju aplikacije, a samim tim i lakši deployment(možemo navesti sve potrebne servise u docker-compose.yml fajlu)
 
 
 
