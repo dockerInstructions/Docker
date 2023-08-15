@@ -1,0 +1,27 @@
+name: dockercompose7594264067174488575
+services:
+  app:
+    build:
+      context: ./ConsoleApp
+      dockerfile: Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+    networks:
+      default: null
+  db:
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_USER: myuser
+    image: postgres:13
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose7594264067174488575_default
