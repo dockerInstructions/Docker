@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\DockerProject.csproj": {}
+    "D:\\Projects\\Docker\\DockerProject\\DockerProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\DockerProject.csproj": {
+    "D:\\Projects\\Docker\\DockerProject\\DockerProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\DockerProject.csproj",
+        "projectUniqueName": "D:\\Projects\\Docker\\DockerProject\\DockerProject.csproj",
         "projectName": "DockerProject",
-        "projectPath": "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\DockerProject.csproj",
+        "projectPath": "D:\\Projects\\Docker\\DockerProject\\DockerProject.csproj",
         "packagesPath": "C:\\Users\\fazi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\obj\\",
+        "outputPath": "D:\\Projects\\Docker\\DockerProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fazi\\AppData\\Roaming\\NuGet\\NuGet.Config",

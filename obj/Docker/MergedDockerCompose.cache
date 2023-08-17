@@ -1,12 +1,28 @@
-name: dockercompose7594264067174488575
+name: dockercompose11203655145221549463
 services:
+  db:
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_PASSWORD: pass
+      POSTGRES_USER: user
+    image: postgres:13
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
   dockerproject:
     build:
-      context: C:\Users\fazi\source\repos\DockerProject
+      context: D:\Projects\Docker
       dockerfile: DockerProject\Dockerfile
+    depends_on:
+      db:
+        condition: service_started
     image: dockerproject
     networks:
       default: null
 networks:
   default:
-    name: dockercompose7594264067174488575_default
+    name: dockercompose11203655145221549463_default

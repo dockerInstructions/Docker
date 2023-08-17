@@ -12,8 +12,8 @@ services:
     environment:
       - NUGET_FALLBACK_PACKAGES=
     volumes:
-      - C:\Users\fazi\source\repos\DockerProject\DockerProject:/app
-      - C:\Users\fazi\source\repos\DockerProject:/src
+      - D:\Projects\Docker\DockerProject:/app
+      - D:\Projects\Docker:/src
       - C:\Users\fazi\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\TokenService.Proxy\linux-x64\net6.0:/TokenService.Proxy:ro
       - C:\Users\fazi\.nuget\packages\:/root/.nuget/packages:ro

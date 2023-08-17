@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnrDA6r6iZE8RyRKrcRN3UFG7mU3wz99AYTBd+omPOdomPejhjwhIifZrrkLQg/SkQj2yLb19/+w+R8Xtgllug==",
+  "dgSpecHash": "ScNuc1hESJH97JgSIH9P9JY0ni4S+a5H8182M0lMT4QT9umJV3Mbpg456vs836CZgzl+0xq/eJ0ttexWG8+HMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fazi\\source\\repos\\DockerProject\\DockerProject\\DockerProject.csproj",
+  "projectFilePath": "D:\\Projects\\Docker\\DockerProject\\DockerProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fazi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fazi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",

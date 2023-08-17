@@ -8,3 +8,13 @@ C:\Users\fazi\source\repos\DockerProject\bin\Debug\Microsoft.Extensions.Logging.
 C:\Users\fazi\source\repos\DockerProject\bin\Debug\DockerProject.pdb
 C:\Users\fazi\source\repos\DockerProject\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\fazi\source\repos\DockerProject\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Projects\Docker\bin\Debug\DockerProject.deps.json
+D:\Projects\Docker\bin\Debug\DockerProject.runtimeconfig.json
+D:\Projects\Docker\bin\Debug\DockerProject.exe
+D:\Projects\Docker\bin\Debug\DockerProject.dll
+D:\Projects\Docker\bin\Debug\Npgsql.dll
+D:\Projects\Docker\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Docker\bin\Debug\DockerProject.pdb
+D:\Projects\Docker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Projects\Docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Projects\Docker\obj\Debug\docker-compose.dcproj.CopyComplete
