@@ -25,7 +25,7 @@
      
 3. Output iz konzole:
 
-     ![image](https://github.com/dockerInstructions/Docker/assets/142311749/3757fdd6-9b01-4eb3-acb1-c346695fc69f)
+    ![image](https://github.com/dockerInstructions/Docker/assets/142311749/2da5ab3e-c69e-4bea-992c-faccba073801)
 
    Što znači da koristimo Postgres bazu iako je nismo lično instalirali(to bismo morali da uradimo u slučaju da ne koristimo docker). 
 <br />
