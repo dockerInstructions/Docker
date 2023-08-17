@@ -1,6 +1,6 @@
 # Docker #
 
-- Docker je pogodan alat za korišćenje u mikroservisnoj arhitekturi jer nam omogućava kontejnerizaciju aplikacije, a samim tim i lakši deployment(možemo navesti sve potrebne servise u docker-compose.yml fajlu)
+- Docker je alat za kontejnerizaciju koji omogućava "pakovanje", distribuciju i izvršavanje aplikacija unutar kontejnera, pogodan je za korišćenje u mikroservisnoj arhitekturi jer nam znatno olakšava deployment(možemo navesti sve potrebne servise u docker-compose.yml fajlu). Pomocu komande **docker-compose up** kreiraće se neophodne slike i kontejneri.
 
 
 
@@ -27,7 +27,7 @@
 
      ![image](https://github.com/dockerInstructions/Docker/assets/142311749/3757fdd6-9b01-4eb3-acb1-c346695fc69f)
 
-   Što znači da koristimo Postgres bazu iako je nismo lično instalirali(to bismo morali da uradimo u slucaju da ne koristimo docker). 
+   Što znači da koristimo Postgres bazu iako je nismo lično instalirali(to bismo morali da uradimo u slučaju da ne koristimo docker). 
 <br />
 <br />
 <br />
@@ -36,7 +36,7 @@ Proces kreiranja kontejnera:
 
 ![docker_structure](https://github.com/dockerInstructions/Docker/assets/142311749/8760887f-dd11-4055-bbde-17e0f0b97483)
 
-- [Jedan zanimljiv problem sa kojim sam se susreo radeci sa dokerizovanom bazom i servisom koji komuniciraju medjusobno.](https://www.linkedin.com/pulse/docker-compose-dependson-luka-anti%2525C4%252587%3FtrackingId=H4d9VMw31jiGKb%252FC%252FOI5RA%253D%253D/?trackingId=H4d9VMw31jiGKb%2FC%2FOI5RA%3D%3D)
+- [Jedan zanimljiv problem sa kojim sam se susreo radeći sa dokerizovanom bazom i servisom koji komuniciraju medjusobno.](https://www.linkedin.com/pulse/docker-compose-dependson-luka-anti%2525C4%252587%3FtrackingId=H4d9VMw31jiGKb%252FC%252FOI5RA%253D%253D/?trackingId=H4d9VMw31jiGKb%2FC%2FOI5RA%3D%3D)
 
  
  
